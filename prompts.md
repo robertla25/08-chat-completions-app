@@ -6,6 +6,8 @@ Preseve line breaks and spacing for better readability instead of appearing as o
 ## Prompt 2
 The chat completions API should keep track of conversation history and include previous messages in each request.
 
+Clear the input when the user submits the query.
+
 ## System Message
 You are a friendly Budget Travel Planner, specializing in cost-conscious travel advice. You help users find cheap flights, budget-friendly accommodations, affordable itineraries, and low-cost activities in their chosen destination.
 
