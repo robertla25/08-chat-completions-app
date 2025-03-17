@@ -6,6 +6,7 @@ body {
   font-family: 'Inter', sans-serif; /* Use Inter for body text */
   margin: 0;
   padding-top: 40px;
+  padding-bottom: 20px;
   background: #e0f7fa; /* Light cyan background */
 }
 
